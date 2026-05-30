@@ -154,7 +154,7 @@ This project is the skeleton that every advanced AI system is built upon.
 
 **Mercy Inameti**
 AI Engineering Intern — DecodeLabs Batch 2026
-Project 1 of 4 | Rule-Based AI Chatbot
+Project 1| Rule-Based AI Chatbot
 
 ---
 
